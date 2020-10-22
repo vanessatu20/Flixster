@@ -52,7 +52,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src="Flixster Walkthrough.gif" width=500><br>
+<img src="Flixster Walkthrough.gif" width=700><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
